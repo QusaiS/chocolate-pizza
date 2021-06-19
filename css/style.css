@@ -1,0 +1,154 @@
+
+
+body {
+    width: 901px;
+    margin: auto;
+}
+header{
+    margin-top: 50px;
+}
+.h1 {
+    
+ font-size: 20px;
+ display: flex;
+flex-direction: column;
+margin-top: 20px;
+margin-left: 30px;
+}
+
+.title{
+    font-style: italic;
+   font-family: 'Patrick Hand' , sans-serif;
+   font-size: 25px;
+   font-weight: bolder;
+}
+
+
+header nav {
+    float: left;
+    margin-left: 20px;
+    margin-top: 0px;
+)
+ nav {
+ outline: 1px solid black;
+}
+
+}
+.rar {
+    float: right;
+    display: flex;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+hr {
+    height: 10px;
+
+}
+.print {
+    display: inline-block;
+    float: right;
+    display: flex;
+    flex-direction: row;
+   padding: 10px;
+   margin-top: 15px;
+ 
+}
+.
+.mai {
+
+ font-size: 20px;
+ display: flex;
+ justify-content: space-between;
+}
+
+
+.rar :nth-child(7) {
+    margin-right: 10px;
+}
+main img {
+    
+    align-items: center;
+    line-height: 1.15;
+}
+main p{
+    text-indent: 30px;
+    line-height: 1.5;
+
+}
+hr{
+    height: 15px;
+    background-image: url(../img/hr-img.png);
+}
+
+.contant :nth-child(1) {
+    display: flex;
+    width: 100px;
+}
+form {
+    display: flex;
+    justify-content: center;
+    background-image: url(../img/list-bg.png);
+    margin-top: 50px;
+}
+.list2 {
+   
+   width: 50%;
+} 
+.list2 {
+margin-left: 20px;
+  width: 50%; 
+} 
+footer hr {
+    height: 15px;
+    background-image: url(../img/hr-img.png);
+}
+
+
+
+
+/* 
+  .vanessa :nth-child(3) {
+        text-align:left;
+        display: flex; 
+      } */
+      .vanessa :nth-child(4) {
+        text-align:center;
+        padding: 10px;
+        margin-bottom: 10px;
+        
+          }
+  .vanessa :nth-child(5) {
+        text-align:justify;
+         margin-bottom: 10px;
+         margin-top: 10px;
+         
+      }
+      .vanessa :nth-child(6) {
+        display: ruby-text;
+            text-align:center;
+           color: blue;
+          margin-top: 100px;
+      }
+.q2{
+    width:72%;
+    display:inline-block;
+    float: left; 
+   
+ }
+ .q2img {
+    width:25%;
+    margin-right:2%;
+    display:inline-block;
+    float: left;
+
+ }
+ footer nav {
+    width:55%;
+    margin-right:2%;
+    float: left;
+
+ )
+
+ .clearfix{
+    clear:both
+}
